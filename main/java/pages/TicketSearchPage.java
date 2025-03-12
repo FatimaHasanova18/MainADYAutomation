@@ -21,6 +21,8 @@ public class TicketSearchPage extends BasePage {
 
     @FindBy(xpath = "//*[@id='vue-layout']/form/div[1]/div[1]/input")
     private WebElement departureStation;
+    @FindBy(xpath = "//*[@id=\"vue-layout\"]/form/div[1]/div[1]/ul/li[1]/button")
+    private WebElement departureButton;
 
     @FindBy(xpath = "/html/div//div/div[1]/div/div/a[2]/svg")
     private WebElement xbtn;
@@ -43,7 +45,7 @@ public class TicketSearchPage extends BasePage {
     @FindBy(xpath = "//*[@id='vue-layout']/form/div[1]/div[2]/div/ul/li[7]/button")
     private WebElement genceButton;
 
-    @FindBy(xpath = "//*[@id=\"vue-layout\"]/form/div[2]/div[2]/div[2]/div[2]/div/table/tbody/tr[2]/td[6]/span")
+    @FindBy(xpath = "//*[@id=\"vue-layout\"]/form/div[2]/div[2]/div[2]/div[2]/div[1]/table/tbody/tr[3]/td[4]/span")
     private WebElement dateTime;
 
     @FindBy(xpath = "//*[@id=\"vue-layout\"]/form/button")
@@ -55,10 +57,7 @@ public class TicketSearchPage extends BasePage {
     // @FindBy(xpath = "/html/body/header/div/div/div[1]/div[1]/div/div[1]/div")
 
     public void clickDepartureStation(String station) {
-        wait.until(ExpectedConditions.elementToBeClickable(departureStation)).click();
-        departureStation.sendKeys(station);
-        departureStation.sendKeys(Keys.ENTER);
-        wait.until(ExpectedConditions.elementToBeClickable(selectStation)).click();
+        departureButton.click();
     }
 
     public void clickDestinationStation() {
@@ -67,18 +66,14 @@ public class TicketSearchPage extends BasePage {
     }
     public void clickDepartureTime() {
         try {
-            // departureTime elementini gözləyirik və klik edirik
             wait.until(ExpectedConditions.elementToBeClickable(departureTime));
             JavascriptExecutor js = (JavascriptExecutor) driver;
 
-            // Readonly atributunu silirik
             js.executeScript("arguments[0].removeAttribute('readonly');", departureTime);
             departureTime.click();
 
-            // Təqvim açılmasını gözləyirik
             wait.until(ExpectedConditions.visibilityOf(calendar));
 
-            // Təqvimdə tarixi seçirik
             wait.until(ExpectedConditions.elementToBeClickable(dateTime));
             js.executeScript("arguments[0].click();", dateTime);
 
