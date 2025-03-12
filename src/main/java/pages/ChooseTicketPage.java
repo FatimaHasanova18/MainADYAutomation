@@ -38,7 +38,7 @@ public class ChooseTicketPage extends BasePage {
     private WebElement firstclassTicket;
     @FindBy(xpath = "//*[@id=\"all_parts\"]/section[3]/div/div[1]/div[3]/a")
     private WebElement getTicket;
-    @FindBy(xpath = "//*[@id=\"all_parts\"]/section/div/div[3]/div[3]/div[2]/div/div/div[2]/div[1]/div[2]/ul[6]/li[2]")
+    @FindBy(xpath = "//*[@id=\"all_parts\"]/section/div/div[3]/div[3]/div[2]/div/div/div[2]/div[1]/div[1]/ul[1]/li")
     private WebElement suit6;
     @FindBy(xpath = "//*[@id=\"all_parts\"]/section/div/div/div[1]/div[2]/a")
     private WebElement choosesuit;
