@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee467918-034e-4217-a14d-11ac6589b2af" name="Changes" comment="Dəyişikliklər haqqında qısa açıqlama">
-      <change beforePath="$PROJECT_DIR$/MainADYAutomation" beforeDir="false" afterPath="$PROJECT_DIR$/MainADYAutomation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/stepDefinition/LoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/stepDefinition/LoginStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -256,7 +255,7 @@
       <workItem from="1741964454091" duration="413000" />
       <workItem from="1741967826609" duration="10182000" />
       <workItem from="1742053010985" duration="6837000" />
-      <workItem from="1742109672178" duration="331000" />
+      <workItem from="1742109672178" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="Dəyişikliklər haqqında qısa açıqlama">
       <option name="closed" value="true" />
