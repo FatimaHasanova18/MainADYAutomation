@@ -34,12 +34,12 @@ public class LoginPage extends BasePage {
 
     public void clickEmailInput() {
         emailinput.click();
-        emailinput.sendKeys("test");
+        emailinput.sendKeys("hfatime10@gmail.com");
     }
 
     public void clickPasswordInput() {
         passwordinput.click();
-        passwordinput.sendKeys("Test25");
+        passwordinput.sendKeys("Test2025");
     }
 
     public void clickLogin() {

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee467918-034e-4217-a14d-11ac6589b2af" name="Changes" comment="Dəyişikliklər haqqında qısa açıqlama">
+      <change beforePath="$PROJECT_DIR$/MainADYAutomation" beforeDir="false" afterPath="$PROJECT_DIR$/MainADYAutomation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/stepDefinition/LoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/stepDefinition/LoginStep.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FatimaHasanova18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FatimaHasanova18/MainADYAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;4ecbbe23-a7e9-4510-9f30-0a6c66a5b00d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tGjyd3mlRomXPlytKmbK1XCcUN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Feature: CalculationCargo.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: CargoTransportation.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: ChooseTicket.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Header.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Login.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: MainHeader.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Search.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: TestCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: TicketSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Search for tickets from a specific station in a country.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Search for tickets from a specific station.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Successful login with valid credentials -  - Example n°1.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Successful login with valid credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Successfully calculating cargo amount.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User calculates the price of cargo -  - Example n°1.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User searches for a specific item.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: the user navigate to calculation of the price of cargo page.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: the user navigates to the calculation of the price of cargo page.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculationCargoRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CargoTransportationRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChooseTicketRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DemiryoluADY.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HeaderRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainHeaderRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchRunners.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCalculationRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TicketSearchRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.DemiryoluADY [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/DemiryoluADY/src/drivers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\DemiryoluADY\src\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DemiryoluADY">
+    <configuration name="Feature: Header" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Header.feature" />
+      <option name="GLUE" value="reportConfig" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="DemiryoluADY" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Header" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MainHeader" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/MainHeader.feature" />
+      <option name="GLUE" value="reportConfig" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="DemiryoluADY" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: MainHeader" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemiryoluADY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemiryoluADY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="suite" />
+      <option name="MAIN_CLASS_NAME" value="suite.DemiryoluADY" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeaderRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemiryoluADY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.HeaderRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainHeaderRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemiryoluADY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.MainHeaderRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemiryoluADY" />
+        <item itemvalue="JUnit.MainHeaderRunner" />
+        <item itemvalue="Cucumber Java.Feature: MainHeader" />
+        <item itemvalue="JUnit.HeaderRunner" />
+        <item itemvalue="Cucumber Java.Feature: Header" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="FluentLenium" />
+    <option name="lastLanguageId" value="JAVA" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee467918-034e-4217-a14d-11ac6589b2af" name="Changes" comment="" />
+      <created>1739985562549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739985562549</updated>
+      <workItem from="1739985563633" duration="1452000" />
+      <workItem from="1739987310943" duration="2687000" />
+      <workItem from="1740061239772" duration="922000" />
+      <workItem from="1740067377908" duration="12727000" />
+      <workItem from="1740152734555" duration="6193000" />
+      <workItem from="1740244555304" duration="5170000" />
+      <workItem from="1740294415195" duration="7034000" />
+      <workItem from="1740500661097" duration="9569000" />
+      <workItem from="1740512813995" duration="2389000" />
+      <workItem from="1740579260113" duration="12156000" />
+      <workItem from="1740592855288" duration="8488000" />
+      <workItem from="1740668316537" duration="4886000" />
+      <workItem from="1740675654580" duration="1671000" />
+      <workItem from="1740677348713" duration="1295000" />
+      <workItem from="1740678667400" duration="3114000" />
+      <workItem from="1740681822372" duration="723000" />
+      <workItem from="1740683270006" duration="538000" />
+      <workItem from="1740683827438" duration="109000" />
+      <workItem from="1740684260370" duration="3719000" />
+      <workItem from="1740688880460" duration="2574000" />
+      <workItem from="1740763179955" duration="6740000" />
+      <workItem from="1740770406561" duration="2335000" />
+      <workItem from="1740772777027" duration="2846000" />
+      <workItem from="1740819779251" duration="7598000" />
+      <workItem from="1740828427414" duration="1965000" />
+      <workItem from="1740927478341" duration="1020000" />
+      <workItem from="1740930785958" duration="8986000" />
+      <workItem from="1741027755397" duration="8000" />
+      <workItem from="1741028642268" duration="1028000" />
+      <workItem from="1741030340521" duration="37000" />
+      <workItem from="1741527840356" duration="206000" />
+      <workItem from="1741793736085" duration="3785000" />
+      <workItem from="1741801815529" duration="1144000" />
+      <workItem from="1741803007350" duration="115000" />
+      <workItem from="1741804923837" duration="9000" />
+      <workItem from="1741805046488" duration="412000" />
+      <workItem from="1741805469860" duration="400000" />
+      <workItem from="1741806769231" duration="920000" />
+      <workItem from="1741889064001" duration="909000" />
+      <workItem from="1741964454091" duration="413000" />
+      <workItem from="1741967826609" duration="10182000" />
+      <workItem from="1742053010985" duration="6837000" />
+      <workItem from="1742109672178" duration="331000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dəyişikliklər haqqında qısa açıqlama">
+      <option name="closed" value="true" />
+      <created>1741807481893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741807481893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dəyişikliklər haqqında qısa açıqlama">
+      <option name="closed" value="true" />
+      <created>1741807534841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741807534841</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dəyişikliklər haqqında qısa açıqlama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dəyişikliklər haqqında qısa açıqlama" />
+  </component>
+</project>

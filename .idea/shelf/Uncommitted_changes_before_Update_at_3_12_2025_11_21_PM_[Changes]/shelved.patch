@@ -1,0 +1,229 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: src/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-16LE
+===================================================================
+diff --git a/src/README.md b/src/README.md
+deleted file mode 100644
+--- a/src/README.md	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,1 +0,0 @@
+-# Demiryolu ADY Automation Project
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+deleted file mode 100644
+--- a/pom.xml	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,97 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project xmlns="http://maven.apache.org/POM/4.0.0"
+-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+-    <modelVersion>4.0.0</modelVersion>
+-
+-    <groupId>org.example</groupId>
+-    <artifactId>DemiryoluADY</artifactId>
+-    <version>1.0-SNAPSHOT</version>
+-
+-    <properties>
+-        <maven.compiler.source>17</maven.compiler.source>
+-        <maven.compiler.target>17</maven.compiler.target>
+-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+-    </properties>
+-    <dependencies>
+-        <dependency>
+-            <groupId>io.cucumber</groupId>
+-            <artifactId>cucumber-java</artifactId>
+-            <version>7.12.1</version>
+-        </dependency>
+-
+-
+-        <dependency>
+-            <groupId>junit</groupId>
+-            <artifactId>junit</artifactId>
+-            <version>RELEASE</version>
+-            <scope>test</scope>
+-        </dependency>
+-
+-        <dependency>
+-            <groupId>org.junit.jupiter</groupId>
+-            <artifactId>junit-jupiter-api</artifactId>
+-            <version>5.11.0-M1</version>
+-            <scope>test</scope>
+-        </dependency>
+-
+-        <dependency>
+-            <groupId>junit</groupId>
+-            <artifactId>junit</artifactId>
+-            <version>4.13.2</version>
+-            <scope>compile</scope>
+-        </dependency>
+-
+-        <dependency>
+-            <groupId>io.cucumber</groupId>
+-            <artifactId>cucumber-testng</artifactId>
+-            <version>7.18.1</version>
+-        </dependency>
+-        <dependency>
+-            <groupId>io.cucumber</groupId>
+-            <artifactId>cucumber-junit</artifactId>
+-            <version>7.18.0</version>
+-            <scope>compile</scope>
+-        </dependency>
+-
+-
+-        <dependency>
+-            <groupId>org.seleniumhq.selenium</groupId>
+-            <artifactId>selenium-java</artifactId>
+-            <version>4.19.1</version>
+-        </dependency>
+-
+-        <dependency>
+-            <groupId>org.testng</groupId>
+-            <artifactId>testng</artifactId>
+-            <version>7.9.0</version>
+-            <scope>test</scope>
+-        </dependency>
+-
+-        <dependency>
+-            <groupId>org.slf4j</groupId>
+-            <artifactId>slf4j-api</artifactId>
+-            <version>2.0.16</version>
+-        </dependency>
+-
+-
+-        <dependency>
+-            <groupId>org.slf4j</groupId>
+-            <artifactId>slf4j-nop</artifactId>
+-            <version>2.0.0</version> <!-- Use the latest version -->
+-        </dependency>
+-        <dependency>
+-            <groupId>com.aventstack</groupId>
+-            <artifactId>extentreports</artifactId>
+-            <version>5.1.1</version>
+-        </dependency>
+-
+-
+-        <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber6-adapter -->
+-        <dependency>
+-            <groupId>tech.grasshopper</groupId>
+-            <artifactId>extentreports-cucumber7-adapter</artifactId>
+-            <version>1.10.1</version>
+-        </dependency>
+-    </dependencies>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,14 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="MavenProjectsManager">
+-    <option name="originalFiles">
+-      <list>
+-        <option value="$PROJECT_DIR$/pom.xml" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+--- a/.gitignore	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,38 +0,0 @@
+-target/
+-!.mvn/wrapper/maven-wrapper.jar
+-!**/src/main/**/target/
+-!**/src/test/**/target/
+-
+-### IntelliJ IDEA ###
+-.idea/modules.xml
+-.idea/jarRepositories.xml
+-.idea/compiler.xml
+-.idea/libraries/
+-*.iws
+-*.iml
+-*.ipr
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-build/
+-!**/src/main/**/build/
+-!**/src/test/**/build/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+deleted file mode 100644
+--- a/.idea/encodings.xml	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
++++ /dev/null	(revision b7e140df1249fc425ddfd6362288851c4094dd3a)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Encoding">
+-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+-  </component>
+-</project>
+\ No newline at end of file

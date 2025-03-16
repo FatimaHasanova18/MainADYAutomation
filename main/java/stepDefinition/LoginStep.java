@@ -15,8 +15,9 @@ import java.time.Duration;
 public class LoginStep {
     public LoginPage loginPage;
     private WebDriver driver;
-    public LoginStep() {
-        loginPage = new LoginPage();
+    public LoginStep()
+    loginPage = new LoginPage();
+
     }
 
     @Given("The user navigates to the homepage")
